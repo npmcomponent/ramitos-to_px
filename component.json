@@ -1,6 +1,6 @@
 {
   "name": "to_px",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repo": "ramitos/to_px",
   "keywords": ["pixels", "number", "px", "string"],
   "homepage": "https://github.com/ramitos/to_px",

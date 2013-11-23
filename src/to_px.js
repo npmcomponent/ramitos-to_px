@@ -6,7 +6,7 @@ module.exports = function (n, pos) {
     return n
 
   if(type(n) === 'number')
-    return interpolate('%dpx', (pos && n < 0) ? 0 : n))
+    return interpolate('%dpx', (pos && n < 0) ? 0 : n)
 
   return '0px'
 }
