@@ -1,5 +1,5 @@
-var type = require('type'),
-    interpolate = require('interpolate')
+var type = require('component-type'),
+    interpolate = require('ramitos-interpolate')
 
 module.exports = function (n, pos) {
   if(type(n) === 'string')

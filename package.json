@@ -1,0 +1,16 @@
+{
+  "name": "ramitos-to_px",
+  "version": "0.0.3",
+  "keywords": [
+    "pixels",
+    "number",
+    "px",
+    "string"
+  ],
+  "main": "src/to_px.js",
+  "dependencies": {
+    "component-type": "git://github.com/npmcomponent/component-type.git",
+    "ramitos-interpolate": "git://github.com/npmcomponent/ramitos-interpolate.git"
+  },
+  "license": "MIT"
+}
